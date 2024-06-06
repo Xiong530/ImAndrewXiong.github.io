@@ -220,6 +220,9 @@ footer .column > a:hover{
 }
 
 .copyright{
+    border-top-width: .1px;
+    border-top-style: solid;
+    border-top-color: #ccc;
     max-width: 1200px;
     margin: auto;
     padding: 1rem;
